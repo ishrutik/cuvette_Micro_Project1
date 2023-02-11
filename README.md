@@ -1,1 +1,1 @@
-# cuvette_Micro_Project1
+# This is basic HTML CSS website made as a Micro Project for CGIP
